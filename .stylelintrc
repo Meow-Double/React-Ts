@@ -1,0 +1,12 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "selector-class-pattern": null,
+    "declaration-block-no-redundant-longhand-properties": null,
+    "media-query-no-invalid": null,
+    "keyframes-name-pattern": null,
+    "media-feature-range-notation": null,
+    "indentation": null
+  },
+  "ignoreFiels": ["dist/**/*"]
+}
